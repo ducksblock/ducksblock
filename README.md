@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>👋 Hey, I'm Pranav </h3>
+<h2>👋 Hey there, I'm ducksblock </h3>
 
 
 - 🔭 I’m currently working on cool Web 3.0 stuff.
