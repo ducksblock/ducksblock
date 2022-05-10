@@ -1,4 +1,4 @@
-### 👋 Hey, I am Pranav
+
 
 <!--
 **ducksblock/ducksblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on cool Web3 tech.
+<h2>👋 Hey, I'm Pranav </h3>
+
+
+- 🔭 I’m currently working on cool Web 3.0 stuff.
 - 🌱 I’m currently learning **Ethereum Blockchain, Solidity and JavaScript**.
 - 👯 I’m looking to collaborate on awesome blockchain projects.
