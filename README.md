@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>👋 Hey there, I'm ducksblock </h3>
+<h2>👋 Hey there, I'm ducksblock!</h3>
 
-
-- 🔭 I’m currently working on cool Web 3.0 stuff.
-- 🌱 I’m currently learning **Ethereum Blockchain, Solidity and JavaScript**.
-- 👯 I’m looking to collaborate on awesome blockchain projects.
+- 🔬 Blockchain | React Dev with 1 year XP
+- ⚛️ Currently into **React, Next.js and TypeScript**
+- ☀️ A wannabe Full Stack dev
+- ✨ Actively seeking developer opportunities
+- 🦆 Other skills: UI/UX Design | Digital Art | Gaming
