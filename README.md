@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 
 <h2>👋 Hey there, I'm ducksblock!</h3>
 
-- 🔬 Blockchain | React Dev with 1 year XP
-- ⚛️ Currently into **React, Next.js and TypeScript**
-- ☀️ A wannabe Full Stack dev
+- 🔬 Blockchain Dev
 - ✨ Actively seeking developer opportunities
-- 🦆 Other skills: UI/UX Design | Digital Art | Gaming
